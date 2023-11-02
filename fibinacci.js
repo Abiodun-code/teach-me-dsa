@@ -1,4 +1,4 @@
-//Fibonacci sequence is a sequence in which each number is the sum of the two preceeding one's 
+//Fibonacci sequence is a sequence in which each number is the sum of the two preceeding one's
 const fibonacci = (n) => {
   let fib = [0,1]
   for (let index = 2; index < n; index++) {    
