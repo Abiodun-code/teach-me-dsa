@@ -1,4 +1,4 @@
-//The factrial of an non-negative interger denoted by "n" is the product of all positive interger from 1 to n
+//The factrial of an non-negative intergers denoted by "n" is the product of all positive interger from 1 to n
 const factorial = (num) =>{
   let result = 1
   for (let index = 2; index <= num; index++) {
