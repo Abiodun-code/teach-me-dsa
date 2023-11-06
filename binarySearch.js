@@ -1,3 +1,4 @@
+
 const binarySearch = (num)=>{
   let array = [-5,2,4,6,10]
   let rightIndex = array.length - 1
