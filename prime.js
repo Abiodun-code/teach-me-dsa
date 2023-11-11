@@ -13,3 +13,4 @@ const isPrime = (num) =>{
 console.log(isPrime(1)); //false
 console.log(isPrime(5)); //true
 console.log(isPrime(4)); //false
+
